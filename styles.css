@@ -1,1 +1,28 @@
 /* your code */
+thead {
+  background-color: #215a8e;
+  color: #fff;
+}
+
+table {
+  border-spacing: 0;
+  border-collapse: separate;
+  border-radius: 1em;
+  border: 1px solid #ddd;
+  overflow: hidden;
+  font-size: 0.5rem;
+  font-family: sans-serif;
+}
+
+
+
+th,
+td {
+  padding: 8px 5px;
+  text-align: left;
+}
+
+.grey{
+
+	background-color:#dddddd;
+}
